@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.home-bg-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-card {
+  height: 500px;
+  width: 700px;
+}

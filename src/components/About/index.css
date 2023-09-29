@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.about-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-img {
+  height: 400px;
+  width: 600px;
+}
